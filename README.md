@@ -92,8 +92,6 @@ This is **object-centric**—the object's class definition dictates its properti
 
 A **component-based** model flips that idea. A `GameObject` is just a simple container. We attach pieces of data, called **components**, to give it properties and behavior.
 
-Think of a `GameObject` as a pinboard, and each component is a sticky note with a piece of information:
-
 | GameObject: `rect1` | |
 | :--- | :--- |
 | **Component** | **Value** |
